@@ -211,7 +211,7 @@ These insights can help businesses optimize pricing strategies, product availabi
 Follow these steps to explore the project:
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/zepto-data-analysis.git
+git clone https://github.com/atejeendra-ba/zepto-data-analysis.git
 
 2️⃣ Load Dataset
 
